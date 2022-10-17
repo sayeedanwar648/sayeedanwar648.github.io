@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.87646e02.js",
-    "static/js/787.ee95881d.chunk.js": "/static/js/787.ee95881d.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/static/css/main.830a61af.css",
+    "main.js": "/static/js/main.621f6bb8.js",
+    "static/media/me.png": "/static/media/me.9947a404f1a0a292f35c.png",
+    "static/media/netmeds.png": "/static/media/netmeds.5a3c3ca52a1acb3e890c.png",
+    "static/media/hubspot.png": "/static/media/hubspot.b00f617eb964cf7dd91e.png",
+    "static/media/bg3.jpg": "/static/media/bg3.d5b114c7ea917871a840.jpg",
+    "static/media/sayeed_anwar_Resume.pdf": "/static/media/sayeed_anwar_Resume.b6a934ceff6619143663.pdf",
     "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.87646e02.js.map": "/static/js/main.87646e02.js.map",
-    "787.ee95881d.chunk.js.map": "/static/js/787.ee95881d.chunk.js.map"
+    "main.830a61af.css.map": "/static/css/main.830a61af.css.map",
+    "main.621f6bb8.js.map": "/static/js/main.621f6bb8.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.87646e02.js"
+    "static/css/main.830a61af.css",
+    "static/js/main.621f6bb8.js"
   ]
 }

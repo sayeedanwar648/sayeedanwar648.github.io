@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.88385d35.css",
-    "main.js": "/static/js/main.cf3e93ed.js",
+    "main.css": "/static/css/main.e8618f99.css",
+    "main.js": "/static/js/main.b39b6b62.js",
     "static/media/me.png": "/static/media/me.9947a404f1a0a292f35c.png",
     "static/media/bg8.png": "/static/media/bg8.974c8806ea7a9446264b.png",
     "static/media/netmeds.png": "/static/media/netmeds.5a3c3ca52a1acb3e890c.png",
@@ -9,11 +9,11 @@
     "static/media/Sayeed_Anwar_Resume.pdf": "/static/media/Sayeed_Anwar_Resume.15ba245dc43fd10c445a.pdf",
     "static/media/logo4.png": "/static/media/logo4.52f9507780c727623a81.png",
     "index.html": "/index.html",
-    "main.88385d35.css.map": "/static/css/main.88385d35.css.map",
-    "main.cf3e93ed.js.map": "/static/js/main.cf3e93ed.js.map"
+    "main.e8618f99.css.map": "/static/css/main.e8618f99.css.map",
+    "main.b39b6b62.js.map": "/static/js/main.b39b6b62.js.map"
   },
   "entrypoints": [
-    "static/css/main.88385d35.css",
-    "static/js/main.cf3e93ed.js"
+    "static/css/main.e8618f99.css",
+    "static/js/main.b39b6b62.js"
   ]
 }

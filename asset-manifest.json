@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.5028833b.css",
-    "main.js": "/static/js/main.402b5eae.js",
+    "main.css": "/static/css/main.d355406d.css",
+    "main.js": "/static/js/main.ba8f1777.js",
     "static/media/me.png": "/static/media/me.9947a404f1a0a292f35c.png",
     "static/media/netmeds.png": "/static/media/netmeds.5a3c3ca52a1acb3e890c.png",
     "static/media/hubspot.png": "/static/media/hubspot.b00f617eb964cf7dd91e.png",
     "static/media/Sayeed_Anwar_Resume.pdf": "/static/media/Sayeed_Anwar_Resume.15ba245dc43fd10c445a.pdf",
     "static/media/logo4.png": "/static/media/logo4.52f9507780c727623a81.png",
     "index.html": "/index.html",
-    "main.5028833b.css.map": "/static/css/main.5028833b.css.map",
-    "main.402b5eae.js.map": "/static/js/main.402b5eae.js.map"
+    "main.d355406d.css.map": "/static/css/main.d355406d.css.map",
+    "main.ba8f1777.js.map": "/static/js/main.ba8f1777.js.map"
   },
   "entrypoints": [
-    "static/css/main.5028833b.css",
-    "static/js/main.402b5eae.js"
+    "static/css/main.d355406d.css",
+    "static/js/main.ba8f1777.js"
   ]
 }

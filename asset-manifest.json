@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.fe18ff0c.css",
-    "main.js": "/static/js/main.6c4bef15.js",
+    "main.js": "/static/js/main.4f362c91.js",
     "static/media/me.png": "/static/media/me.9947a404f1a0a292f35c.png",
     "static/media/meat.png": "/static/media/meat.215b0767a4698a9722be.png",
     "static/media/netmeds.png": "/static/media/netmeds.5a3c3ca52a1acb3e890c.png",
@@ -11,10 +11,10 @@
     "static/media/logo4.png": "/static/media/logo4.52f9507780c727623a81.png",
     "index.html": "/index.html",
     "main.fe18ff0c.css.map": "/static/css/main.fe18ff0c.css.map",
-    "main.6c4bef15.js.map": "/static/js/main.6c4bef15.js.map"
+    "main.4f362c91.js.map": "/static/js/main.4f362c91.js.map"
   },
   "entrypoints": [
     "static/css/main.fe18ff0c.css",
-    "static/js/main.6c4bef15.js"
+    "static/js/main.4f362c91.js"
   ]
 }
